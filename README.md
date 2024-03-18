@@ -17,6 +17,17 @@ LED lighting, sound, and an active cockpit display have been added to bring this
 
 ![DF Player Mini](img/DFPlayer_sm.jpg)
 
+Sound SD Card
+Audio Play List (mp3 folder)
+mp3
+-	0001_BSG theme song.mp3
+-	0002_Viper launch sequence.mp3
+-	0003_BSG theme song clip.mp3
+-	0004_target aquired.mp3
+-	0005_target hit.mp3
+-	0006_guns.mp3
+
+
 **0.42" OLED Display**
 
 Uses an SSD1306 display controller
@@ -24,9 +35,11 @@ Uses an SSD1306 display controller
 ![0.42" OLED Display](img/0_42_display_sm.jpg)
 
 ## Directories
-- src: Contains Arduino sketch file
+- src: Contains Arduino sketch files
 - lib: Associated Arduino libraries
-- schematics: Images of the schedmatic design
+- schematics: Images of the schematic design
+- doc: Build documents 
+- img: Images for this document
 
 
 
